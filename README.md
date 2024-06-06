@@ -1,1 +1,6 @@
-Flask app that implements a LLM + RAG endpoint for multiple users 
+GenAI chatbot using AzureOpenAI + RAG to query documents
+
+### Stack
+* Flask
+* Langchain
+* AzureOpenAI
