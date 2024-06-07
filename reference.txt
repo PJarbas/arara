@@ -1,0 +1,5 @@
+https://learn.microsoft.com/pt-br/entra/external-id/customers/sample-web-app-python-flask-sign-in?tabs=windows
+
+https://learn.microsoft.com/pt-br/entra/external-id/customers/tutorial-web-app-python-flask-prepare-tenant
+
+https://learn.microsoft.com/pt-br/entra/external-id/customers/tutorial-web-app-python-flask-sign-in-sign-out?tabs=windows
